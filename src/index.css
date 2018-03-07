@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1,button,h4{
+  color:white;
+  font-family: 'Shrikhand', cursive;
+}
+p{
+  font-family: 'Shrikhand', cursive;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
